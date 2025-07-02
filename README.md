@@ -17,5 +17,4 @@ Module:
 - hostapd : 2:2.10-21ubuntu0.1 arm64
 - dnsmasq : 2.90-2build2 arm64
 
-
-<img src="./img/산학협력팀프로젝트_포스터최종.pdf">
+[posture.pdf](https://github.com/user-attachments/files/21014257/posture.pdf)
