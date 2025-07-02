@@ -17,4 +17,4 @@ Module:
 - hostapd : 2:2.10-21ubuntu0.1 arm64
 - dnsmasq : 2.90-2build2 arm64
 
-[img](https://github.com/user-attachments/files/21014257/posture.pdf)
+![Image](https://github.com/user-attachments/assets/dffefd5a-2fd5-4dc8-a6fe-8f5bba58648b)
