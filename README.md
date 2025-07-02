@@ -18,4 +18,4 @@ Module:
 - dnsmasq : 2.90-2build2 arm64
 
 
-<img src="./img/산학협력팀프로젝트_포스터최종.pdf">
+<img src="./img/산학협력팀프로젝트_포스터최종.pdf">
