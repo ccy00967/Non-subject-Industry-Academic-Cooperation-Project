@@ -1,0 +1,14 @@
+[Unit]
+Description= Station Server
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/ccy/workstation/station_server_py/server/server.py
+WorkingDirectory=/home/ccy/workstation/station_server_py
+StandardOutput=journal
+StandardError=journal
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
